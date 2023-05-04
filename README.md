@@ -4,7 +4,7 @@ A simple Python script to automate the process of shortening URLs using the Bitl
 ![automate_bitly](https://user-images.githubusercontent.com/37108394/236059422-02bb1409-72ae-4566-ac63-a3c89e2a7791.png)
 
 ## Blog Post
-For a more detailed explanation of the Bitly automation process and a step-by-step guide, please refer to our blog post:
+For a more detailed explanation of the Bitly automation process and a step-by-step guide, please refer to our [blog post](https://pycad.co/bitly-automations/).
 
 ## How Bitly Automations Work
 
